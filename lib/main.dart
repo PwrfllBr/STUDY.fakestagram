@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Fakestragram',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
       ),
       home: const MyHomePage(),
     );

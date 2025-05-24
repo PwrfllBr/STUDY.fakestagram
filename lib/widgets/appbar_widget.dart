@@ -17,7 +17,7 @@ class AppBarWidget extends StatelessWidget implements	 PreferredSizeWidget {
       backgroundColor: Colors.white,
       actions: [
         const Icon(Icons.notifications_none, color: Colors.black),
-        const SizedBox(width: 20),
+        const SizedBox(width: 15),
       ],
     );
   }
